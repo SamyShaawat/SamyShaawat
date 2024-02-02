@@ -21,13 +21,12 @@
 <br/><br/><br/><br/><br/><br/>
 <div align="center"> 
 <h3>Connect with me:</h3>
-<a href="mailto:samy.shaawat@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="samyshaawat" height="40" width="40" /></a>
-<a href="https://github.com/SamyShaawat" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="samyshaawat" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/samyshaawat/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/108px-LinkedIn_icon_circle.svg.png" alt="samyshaawat" height="40" width="40" /></a>
-<a href="https://www.instagram.com/samy_m0stafa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samyshaawat" height="30" width="40" /></a>
-<a href="https://www.facebook.com/SamyM0stafa" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="samyshaawat" height="30" width="40" /></a>
-<a href="https://twitter.com/SamyShaawat" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/2048px-X_icon_2.svg.png" alt="samyshaawat" height="40" width="40" /></a>
-
+<a href="mailto:samy.shaawat@gmail.com" target="_blank" title="Email"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="samyshaawat" height="40" width="40" /></a>
+<a href="https://github.com/SamyShaawat" target="_blank" title="GitHub"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="samyshaawat" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/samyshaawat/" target="_blank" title="LinkedIn"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/108px-LinkedIn_icon_circle.svg.png" alt="samyshaawat" height="40" width="40" /></a>
+<a href="https://www.instagram.com/samy_m0stafa/" target="_blank" title="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samyshaawat" height="30" width="40" /></a>
+<a href="https://www.facebook.com/SamyM0stafa" target="_blank" title="Facebook"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="samyshaawat" height="30" width="40" /></a>
+<a href="https://twitter.com/SamyShaawat" target="_blank" title="Twitter"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/2048px-X_icon_2.svg.png" alt="samyshaawat" height="40" width="40" /></a>
 
 </div>
 
