@@ -14,18 +14,21 @@
 
 - 📫 How to reach me **samy.shaawat@gmail.com**
 
-- 📄 Know about my experiences [here](https://github.com/SamyShaawat/My-Resume)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1pVBLuf_tE2Rfh2Od3FNUqgw75Vg8Lcqk/view?usp=sharing)
 
  
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div align="center"> 
-  <a href="mailto:samy.shaawat@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/samyshaawat" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+<h3>Connect with me:</h3>
+<a href="mailto:samy.shaawat@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="samyshaawat" height="40" width="40" /></a>
+<a href="https://github.com/SamyShaawat" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="samyshaawat" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/samyshaawat/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/108px-LinkedIn_icon_circle.svg.png" alt="samyshaawat" height="40" width="40" /></a>
+<a href="https://www.instagram.com/samy_m0stafa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samyshaawat" height="30" width="40" /></a>
+<a href="https://www.facebook.com/SamyM0stafa" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="samyshaawat" height="30" width="40" /></a>
+<a href="https://twitter.com/SamyShaawat" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/2048px-X_icon_2.svg.png" alt="samyshaawat" height="40" width="40" /></a>
+
+
 </div>
 
 <hr/>
