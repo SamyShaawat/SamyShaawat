@@ -5,7 +5,7 @@
   </h1>
   <h3>A Computer Engineer</h3>
 </div>
-<img align="right" alt="Coding"  width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp3d3BiMDljMGk1amUzdTNwb2Q5a284NnZxbzE3ZTFndHllaWZrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <div align="left">
   
 - 🔭 I’m currently working on [Real-Estate-Market-Place](https://github.com/SamyShaawat/Real-Estate-Market-Place)
