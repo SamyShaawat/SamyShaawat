@@ -18,7 +18,7 @@
 
  
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <div align="center"> 
 <h3>Connect with me:</h3>
 <a href="mailto:samy.shaawat@gmail.com" target="_blank" title="Email"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="samyshaawat" height="40" width="40" /></a>
