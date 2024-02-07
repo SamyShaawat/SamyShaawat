@@ -16,11 +16,8 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1pVBLuf_tE2Rfh2Od3FNUqgw75Vg8Lcqk/view?usp=sharing)
 
- 
-</div>
-<br/><br/><br/><br/><br/><br/><br/>
-<div align="center"> 
-<h3>Connect with me:</h3>
+ <div align="left"> 
+<h2>Connect with me:</h2>
 <a href="mailto:samy.shaawat@gmail.com" target="_blank" title="Email"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="samyshaawat" height="40" width="40" /></a>
 <a href="https://github.com/SamyShaawat" target="_blank" title="GitHub"><img align="center" src="https://skillicons.dev/icons?i=github" alt="samyshaawat" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/samyshaawat/" target="_blank" title="LinkedIn"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/108px-LinkedIn_icon_circle.svg.png" alt="samyshaawat" height="40" width="40" /></a>
@@ -29,7 +26,8 @@
 <a href="https://twitter.com/SamyShaawat" target="_blank" title="Twitter"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/2048px-X_icon_2.svg.png" alt="samyshaawat" height="40" width="40" /></a>
 
 </div>
-
+</div>
+<br/> <br/>
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
