@@ -17,7 +17,7 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1pVBLuf_tE2Rfh2Od3FNUqgw75Vg8Lcqk/view?usp=sharing)
 
 <br/> <br/> <br/> <br/> <br/>
-<h2></h2>
+<hr />
  <div align="left"> 
 <h2>Connect with me:</h2>
 <a href="mailto:samy.shaawat@gmail.com" target="_blank" title="Email"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="samyshaawat" height="40" width="40" /></a>
