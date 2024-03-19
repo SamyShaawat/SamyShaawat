@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1pVBLuf_tE2Rfh2Od3FNUqgw75Vg8Lcqk/view?usp=sharing)
 
-<br/> <br/> <br/> <br/> <br/>  <br/>
+<br/> <br/> <br/> <br/> <br/>  <br/> <br/>
 <hr />
  <div align="left"> 
 <h2>Connect with me:</h2>
