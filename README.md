@@ -21,8 +21,8 @@
 
 <br/> <br/> <br/> <br/> <br/>  <br/> <br/>
 <hr />
- <div align="left"> 
-<h2>Connect with me:</h2>
+ <div align="center"> 
+<h2>🌟 Connect with me 🌟</h2>
 <a href="mailto:samy.shaawat@gmail.com" target="_blank" title="Email"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="samyshaawat" height="40" width="40" /></a>
 <a href="https://github.com/SamyShaawat" target="_blank" title="GitHub"><img align="center" src="https://skillicons.dev/icons?i=github" alt="samyshaawat" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/samyshaawat/" target="_blank" title="LinkedIn"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/108px-LinkedIn_icon_circle.svg.png" alt="samyshaawat" height="40" width="40" /></a>
