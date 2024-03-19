@@ -6,6 +6,9 @@
   <h2>Fresh Computer Science and Engineering Graduate</h2>
 </div>
 <img align="right" alt="Coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+
+
 <div align="left">
   
 - 🔭 I’m currently working on [Real-Estate-Market-Place](https://github.com/SamyShaawat/Real-Estate-Market-Place)
@@ -16,7 +19,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1pVBLuf_tE2Rfh2Od3FNUqgw75Vg8Lcqk/view?usp=sharing)
 
-<br/> <br/> <br/> <br/> <br/>
+<br/> <br/> <br/> <br/> <br/>  <br/>
 <hr />
  <div align="left"> 
 <h2>Connect with me:</h2>
@@ -29,7 +32,6 @@
 
 </div>
 </div>
-<br/> <br/>
 <hr/>
 
 
