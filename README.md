@@ -3,7 +3,7 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samy+Mostafa!;" />
   </h1>
-  <h3>A Computer Engineer</h3>
+  <h2>Fresh Computer Science and Engineering Graduate</h2>
 </div>
 <img align="right" alt="Coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <div align="left">
@@ -16,6 +16,8 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1pVBLuf_tE2Rfh2Od3FNUqgw75Vg8Lcqk/view?usp=sharing)
 
+<br/> <br/> <br/> <br/> <br/>
+<h2></h2>
  <div align="left"> 
 <h2>Connect with me:</h2>
 <a href="mailto:samy.shaawat@gmail.com" target="_blank" title="Email"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="samyshaawat" height="40" width="40" /></a>
@@ -28,6 +30,7 @@
 </div>
 </div>
 <br/> <br/>
+<hr/>
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
