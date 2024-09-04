@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **samy.shaawat@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1pVBLuf_tE2Rfh2Od3FNUqgw75Vg8Lcqk/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1J_phJJGGpi9crrYS8UU16wddUus-TNuH/view?usp=sharing)
 
 - 🌐 Check out my portfolio [https://samy.rowad.com/](https://samy.rowad.com/)
 
