@@ -13,7 +13,7 @@
   
 - 🔭 I’m currently working on [Real-Estate-Market-Place](https://github.com/SamyShaawat/Real-Estate-Market-Place)
 
-- 🌱 I’m currently learning **React, NodeJS, React Native, Flutter**
+- 🌱 I’m currently learning **React, NodeJS, Flutter**
 
 - 📫 How to reach me **samy.shaawat@gmail.com**
 
