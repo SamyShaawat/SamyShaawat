@@ -47,7 +47,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=SamyShaawat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=SamyShaawat&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyShaawat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=SamyShaawat&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=SamyShaawat&count_private=true&show_icons=true&theme=react&hide_border=true" alt="readme stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyShaawat&hide=HTML&langs_count=8&layout=compact&theme=react&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div><hr/>
