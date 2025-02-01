@@ -3,7 +3,7 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Samy+Mostafa!;I'm+a+Teaching+Assistant+at+EJUST;I'm+a+Web+Developer;I'm+a+Computer+Engineer;" />
   </h1>
-  <h2>Computer Engineer | Teaching Assistant</h2>
+  <h2>Software Engineer | Teaching Assistant</h2>
 </div>
 <img align="right" alt="Coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -13,7 +13,7 @@
   
 - 🔭 I’m currently working on [Real-Estate-Market-Place](https://github.com/SamyShaawat/Real-Estate-Market-Place)
 
-- 🌱 I’m currently learning **React, NodeJS, Flutter**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **samy.shaawat@gmail.com**
 
