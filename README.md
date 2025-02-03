@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SamyShaawat.visitor-badge&left_text=Profile%20Views%20" />
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Samy+Mostafa!;I'm+a+Teaching+Assistant+at+EJUST;I'm+a+Web+Developer;I'm+a+Computer+Engineer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Samy+Mostafa!;I'm+a+Teaching+Assistant+at+EJUST;I'm+a+Web+Developer;I'm+a+Software+Engineer;" />
   </h1>
   <h2>Software Engineer | Teaching Assistant</h2>
 </div>
