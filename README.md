@@ -50,3 +50,9 @@
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=SamyShaawat&count_private=tru&show_icons=true&theme=react&border=10&include_all_commits=true" alt="readme stats" />
   <img width="298" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyShaawat&hide=HTML&langs_count=8&layout=compact&theme=react&border=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div><hr/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamyShaawat/SamyShaawat/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamyShaawat/SamyShaawat/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SamyShaawat/SamyShaawat/output/github-snake.svg" />
+</picture>
