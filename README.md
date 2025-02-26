@@ -11,13 +11,13 @@
 
 <div align="left">
   
-- 🔭 I’m currently working on [Real-Estate-Market-Place](https://github.com/SamyShaawat/Real-Estate-Market-Place)
+- 🔭 I’m currently working on [JobSearchApp](https://github.com/SamyShaawat/JobSearchApp)
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **samy.shaawat@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1J_phJJGGpi9crrYS8UU16wddUus-TNuH/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1zm99PtYOtdqc4hZ_X0AGtelxCoW7Vvb4/view?usp=drive_link)
 
 - 🌐 Check out my portfolio [https://samy.rowad.com/](https://samy.rowad.com/)
 
