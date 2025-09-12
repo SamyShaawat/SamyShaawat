@@ -11,9 +11,9 @@
 
 <div align="left">
   
-- 🔭 I’m currently working on [JobSearchApp](https://github.com/SamyShaawat/JobSearchApp)
+- 🔭 I’m currently working on [Hospital Management System](https://github.com/SamyShaawat/HMS)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Odoo**
 
 - 📫 How to reach me **samy.shaawat@gmail.com**
 
