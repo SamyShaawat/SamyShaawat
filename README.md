@@ -29,7 +29,7 @@
 <a href="https://github.com/SamyShaawat" target="_blank" title="GitHub"><img align="center" src="https://skillicons.dev/icons?i=github" alt="samyshaawat" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/samyshaawat/" target="_blank" title="LinkedIn"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/108px-LinkedIn_icon_circle.svg.png" alt="samyshaawat" height="40" width="40" /></a>
 <a href="https://www.instagram.com/samy_m0stafa/" target="_blank" title="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samyshaawat" height="30" width="40" /></a>
-<a href="https://www.facebook.com/SamyM0stafa" target="_blank" title="Facebook"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="samyshaawat" height="30" width="40" /></a>
+<a href="https://www.facebook.com/SamyM0stafa" target="_blank" title="Facebook"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/facebook-alt.svg" alt="samyshaawat" height="30" width="40" /></a>
 <a href="https://twitter.com/SamyShaawat" target="_blank" title="Twitter"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/2048px-X_icon_2.svg.png" alt="samyshaawat" height="40" width="40" /></a>
 
 </div>
@@ -50,7 +50,7 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SamyShaawat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 <img
   width="390"
-  src="https://github-readme-stats.vercel.app/api?username=SamyShaawat&show_icons=true&theme=react&border=10&include_all_commits=false&count_private=true&hide_border=false&custom_title=Samy%20Shaawat's%20Stats"
+  src="https://github-readme-stats-salesp07.vercel.app/api?username=SamyShaawat&show_icons=true&theme=react&border=10&include_all_commits=false&count_private=true&hide_border=false&custom_title=Samy%20Shaawat's%20Stats"
   alt="GitHub Stats"
 />
 
