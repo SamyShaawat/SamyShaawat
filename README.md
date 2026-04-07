@@ -4,6 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Samy+Mostafa!;I'm+a+Teaching+Assistant+at+EJUST;I'm+a+Web+Developer;I'm+a+Software+Engineer;" />
   </h1>
   <h2>Software Engineer | Teaching Assistant</h2>
+    <div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+  </div>
 </div>
 <img align="right" alt="Coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -25,12 +32,25 @@
 <hr />
  <div align="center"> 
 <h2>🌟 Connect with me 🌟</h2>
-<a href="mailto:samy.shaawat@gmail.com" target="_blank" title="Email"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="samyshaawat" height="40" width="40" /></a>
-<a href="https://github.com/SamyShaawat" target="_blank" title="GitHub"><img align="center" src="https://skillicons.dev/icons?i=github" alt="samyshaawat" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/samyshaawat/" target="_blank" title="LinkedIn"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/108px-LinkedIn_icon_circle.svg.png" alt="samyshaawat" height="40" width="40" /></a>
-<a href="https://www.instagram.com/samy_m0stafa/" target="_blank" title="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samyshaawat" height="30" width="40" /></a>
-<a href="https://www.facebook.com/SamyM0stafa" target="_blank" title="Facebook"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/facebook-alt.svg" alt="samyshaawat" height="30" width="40" /></a>
-<a href="https://twitter.com/SamyShaawat" target="_blank" title="Twitter"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/2048px-X_icon_2.svg.png" alt="samyshaawat" height="40" width="40" /></a>
+  
+  <a href="mailto:samy.shaawat@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/samyshaawat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SamyShaawat" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/SamyShaawat" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.facebook.com/SamyM0stafa" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/samy_m0stafa/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
 </div>
 </div>
@@ -64,3 +84,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamyShaawat/SamyShaawat/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SamyShaawat/SamyShaawat/output/github-snake.svg" />
 </picture>
+---
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamyShaawat&theme=react-dark&line=61dafb&point=61dafb&area=true&hide_border=true" alt="Activity Graph" />
+</div>
