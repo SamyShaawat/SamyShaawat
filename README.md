@@ -18,17 +18,29 @@
 
 <div align="left">
   
-- 🔭 I’m currently working on [Hospital Management System](https://github.com/SamyShaawat/HMS)
+  ## 👨‍💻 About Me
+  
+  - 🔭 I'm currently working on **[Hospital Management System](https://github.com/SamyShaawat/HMS)**
+  
+  - 🌱 I'm currently learning **Odoo**
+  
+  - 💼 I work as a **Teaching Assistant** at **Egypt-Japan University of Science and Technology (EJUST)**
+  
+  - 🎓 Passionate about **Software Engineering**, **Web Development**, and **Education**
+  
+  - 📫 How to reach me: **samy.shaawat@gmail.com**
+  
+  - 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1zm99PtYOtdqc4hZ_X0AGtelxCoW7Vvb4/view?usp=drive_link)**
+  
+  - 🌐 Check out my portfolio: **[https://samy.rowad.com/](https://samy.rowad.com/)**
 
-- 🌱 I’m currently learning **Odoo**
+  <br/>
+  
+</div>
 
-- 📫 How to reach me **samy.shaawat@gmail.com**
+<br clear="right"/>
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1zm99PtYOtdqc4hZ_X0AGtelxCoW7Vvb4/view?usp=drive_link)
-
-- 🌐 Check out my portfolio [https://samy.rowad.com/](https://samy.rowad.com/)
-
-<br/> <br/> <br/> <br/> <br/>  <br/> <br/>
+<!-- <br/> <br/> <br/> <br/> <br/>  <br/> <br/> -->
 <hr />
  <div align="center"> 
 <h2>🌟 Connect with me 🌟</h2>
