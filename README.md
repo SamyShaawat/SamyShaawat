@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
   </div>
 </div>
-<img align="right" alt="Coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<!-- <img align="right" alt="Coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> -->
 
 
 
