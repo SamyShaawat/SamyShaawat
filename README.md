@@ -18,22 +18,16 @@
 
 <div align="left">
   
-  ## 👨‍💻 About Me
-  
-  - 🔭 I'm currently working on **[Hospital Management System](https://github.com/SamyShaawat/HMS)**
-  
-  - 🌱 I'm currently learning **Odoo**
-  
-  - 💼 I work as a **Teaching Assistant** at **Egypt-Japan University of Science and Technology (EJUST)**
-  
-  - 🎓 Passionate about **Software Engineering**, **Web Development**, and **Education**
-  
-  - 📫 How to reach me: **samy.shaawat@gmail.com**
-  
-  - 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1zm99PtYOtdqc4hZ_X0AGtelxCoW7Vvb4/view?usp=drive_link)**
-  
-  - 🌐 Check out my portfolio: **[https://samy.rowad.com/](https://samy.rowad.com/)**
+## About Me
 
+I graduated from the Egypt-Japan University of Science and Technology (E-JUST) in Computer Science and Engineering (CSE) in 2024. I work as a Teaching Assistant and Researcher at the university while developing Odoo-based business solutions and web applications, bridging academic knowledge with real-world software engineering.
+
+
+- **Contact:** [samy.shaawat@gmail.com](mailto:samy.shaawat@gmail.com)
+- **Resume:** [View](https://drive.google.com/file/d/1zm99PtYOtdqc4hZ_X0AGtelxCoW7Vvb4/view?usp=drive_link)
+- **Portfolio:** [samy.rowad.com](https://samy.rowad.com/)
+
+</div>
   <br/>
   
 </div>
@@ -71,10 +65,14 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,express,nodejs,github,git,html,css,js,bootstrap,tailwind" />
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postman,vscode,pytorch,tensorflow,react,linux,latex" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,nestjs,prisma,postgres,mysql,mongodb,sqlite,firebase" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=py" />
     <img src="odoo.svg" width="48" height="48" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,c,cpp,git,github,vscode,postman,linux,latex" />
 </div>
+
+<hr/>
 
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
