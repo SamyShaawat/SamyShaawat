@@ -92,9 +92,4 @@ I graduated from the Egypt-Japan University of Science and Technology (E-JUST) i
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamyShaawat/SamyShaawat/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SamyShaawat/SamyShaawat/output/github-snake.svg" />
 </picture>
----
 
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="Contribution calendar" />
-</div>
