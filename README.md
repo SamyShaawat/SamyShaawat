@@ -71,7 +71,7 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,dart,express,nodejs,github,git,html,css,js,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,express,nodejs,github,git,html,css,js,bootstrap,tailwind" />
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postman,vscode,pytorch,tensorflow,react,linux,latex" />
 </div>
 
