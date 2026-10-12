@@ -73,10 +73,10 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,express,nodejs,github,git,html,css,js,bootstrap,tailwind" />
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postman,vscode,pytorch,tensorflow,react,linux,latex" />
+    <img src="odoo.svg" width="48" height="48" />
 </div>
 
 <hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SamyShaawat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
