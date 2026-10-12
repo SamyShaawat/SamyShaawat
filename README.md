@@ -98,5 +98,5 @@ I graduated from the Egypt-Japan University of Science and Technology (E-JUST) i
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamyShaawat&theme=react-dark&line=61dafb&point=61dafb&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="./github-metrics.svg" alt="Contribution calendar" />
 </div>
