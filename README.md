@@ -28,8 +28,6 @@ I graduated from the Egypt-Japan University of Science and Technology (E-JUST) i
 - **My Portfolio:** [samy.rowad.com](https://samy.rowad.com/)
 
 </div>
-  <br/>
-  
 </div>
 
 <br clear="right"/>
@@ -74,7 +72,7 @@ I graduated from the Egypt-Japan University of Science and Technology (E-JUST) i
 
 <hr/>
 
-<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SamyShaawat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
