@@ -23,9 +23,9 @@
 I graduated from the Egypt-Japan University of Science and Technology (E-JUST) in Computer Science and Engineering (CSE) in 2024. I work as a Teaching Assistant and Researcher at the university while developing Odoo-based business solutions and web applications, bridging academic knowledge with real-world software engineering.
 
 
-- **Contact:** [samy.shaawat@gmail.com](mailto:samy.shaawat@gmail.com)
-- **Resume:** [View](https://drive.google.com/file/d/1zm99PtYOtdqc4hZ_X0AGtelxCoW7Vvb4/view?usp=drive_link)
-- **Portfolio:** [samy.rowad.com](https://samy.rowad.com/)
+- **E-mail:** [samy.shaawat@gmail.com](mailto:samy.shaawat@gmail.com)
+- **My Resume:** [View](https://drive.google.com/file/d/1zm99PtYOtdqc4hZ_X0AGtelxCoW7Vvb4/view?usp=drive_link)
+- **My Portfolio:** [samy.rowad.com](https://samy.rowad.com/)
 
 </div>
   <br/>
