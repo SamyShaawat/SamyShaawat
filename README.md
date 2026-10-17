@@ -63,9 +63,9 @@ I graduated from the Egypt-Japan University of Science and Technology (E-JUST) i
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,nestjs,prisma,postgres,mysql,mongodb,sqlite&perline=14" width="100%" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,nestjs,prisma,postgres,mysql,mongodb&perline=13" width="100%" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=firebase,py,pytorch,tensorflow,c,cpp,git,github,vscode,postman,linux,latex&perline=12" width="85.5%" /><img src="odoo.svg" width="6%" />
+    <img src="https://skillicons.dev/icons?i=sqlite,firebase,py&perline=3" width="22.04%" /><img src="odoo.svg" width="9.14%" /><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,c,cpp,git,postman,linux,latex&perline=8" width="61.02%" />
 </div>
 
 <hr/>
