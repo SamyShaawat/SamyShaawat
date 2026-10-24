@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SamyShaawat.visitor-badge&left_text=Profile%20Views%20" />
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Samy+Mostafa!;I'm+a+Teaching+Assistant+at+EJUST;I'm+Odoo+Developer;I'm+a+Software+Engineer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5500&lines=Hi+There!+👋;+I'm+Samy+Mostafa!;I'm+a+Teaching+Assistant+at+EJUST;I'm+Odoo+Developer;I'm+a+Software+Engineer;" />
   </h1>
   <h2>Teaching Assistant | Odoo Developer | Software Engineer</h2>
     <div>
