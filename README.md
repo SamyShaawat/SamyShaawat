@@ -3,7 +3,7 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Samy+Mostafa!;I'm+a+Teaching+Assistant+at+EJUST;I'm+Odoo+Developer;I'm+a+Software+Engineer;" />
   </h1>
-  <h2>Software Engineer | Teaching Assistant</h2>
+  <h2>Software Engineer | Teaching Assistant | Odoo Developer</h2>
     <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
